@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ogp-tester/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ogp-tester/static/js/main.5d1278eb.chunk.js",
+    "main.js.map": "/ogp-tester/static/js/main.5d1278eb.chunk.js.map",
+    "runtime-main.js": "/ogp-tester/static/js/runtime-main.6b5b5837.js",
+    "runtime-main.js.map": "/ogp-tester/static/js/runtime-main.6b5b5837.js.map",
+    "static/js/2.76c877b2.chunk.js": "/ogp-tester/static/js/2.76c877b2.chunk.js",
+    "static/js/2.76c877b2.chunk.js.map": "/ogp-tester/static/js/2.76c877b2.chunk.js.map",
+    "static/js/3.34a7291c.chunk.js": "/ogp-tester/static/js/3.34a7291c.chunk.js",
+    "static/js/3.34a7291c.chunk.js.map": "/ogp-tester/static/js/3.34a7291c.chunk.js.map",
+    "index.html": "/ogp-tester/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ogp-tester/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.76c877b2.chunk.js.LICENSE.txt": "/ogp-tester/static/js/2.76c877b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ogp-tester/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b5b5837.js",
+    "static/js/2.76c877b2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5d1278eb.chunk.js"
+  ]
+}
